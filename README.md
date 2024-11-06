@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning Next JS, GraphQL, TypeScript.
 - 📫 How to reach me adil.naseem@724.one
-- 😄 Pronouns: Ad-dil
+- 😄 Pronouns: Aa-dil
 - ⚡ Fun fact: I do photography and travel when I am not coding.
 
 <!---
